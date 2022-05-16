@@ -32,6 +32,3 @@ jobs:
            cmake CMakeLists.txt
            make
            ./reshatel
-           1
-           10
-           10
