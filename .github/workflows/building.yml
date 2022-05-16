@@ -25,7 +25,7 @@ jobs:
            make
            ./Test
 
-     - name: reshatel.cpp
+     - name: reshatel
        shell: bash
        run: |
            cd solver_application/
